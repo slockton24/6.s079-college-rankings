@@ -8,4 +8,6 @@ The code for analyzing normal distribution of movement across the rankings is in
 
 The 5 data files we used are in the data/ directory
 
+The code to compute correlations and compare admission statistics and rankings is in the correlations directory. There is a seperate README there that described how to run various files and produce different visualizations of our analysis.
+
 To run the files, either clone or download the entire directory and install any required dependencies. Then simply run the Jupyter Notebook or Python file, whichever is preferred.
